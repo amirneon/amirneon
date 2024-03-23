@@ -1,5 +1,5 @@
 # 💫 About Me:
-Throughout my life, I've always loved taking on challenges, especially those involving algorithms. I’m eager to face such challenges, and to find innovative ideas to overcome them, which eventually has driven me towards programming.<br>Currently, I’m honing my skills in Node.js and related technologies, wishing to excel as a backend developer. I view this learning process as an opportunity to showcase my enthusiasm for technology and programming.<br>I am actively pursuing educational and professional avenues that helps me to evolve, and to stay in-touch with the trends, so I can provide the most optimal solutions.
+Welcome to my GitHub profile! I'm Amirhossein Sharbatdar, a Node.js Backend Developer in the process of improving my skills in building scalable server-side applications and mastering Express.js for RESTful APIs. With experience in PostgreSQL and MongoDB, I enjoy tackling complex challenges and pushing the boundaries of innovation. I'm dedicated to continuous learning and eager to collaborate with like-minded professionals to create impactful solutions. Explore my portfolio to see my journey and dedication to web development. Let's connect and create something amazing together!
 
 
 ## 🌐 Socials:
